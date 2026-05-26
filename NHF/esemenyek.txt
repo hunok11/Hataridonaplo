@@ -1,0 +1,48 @@
+2025-06-01;10:00;Programozas Vizsga;BME Q epulet;Irasbeli C++
+2025-06-02;14:00;Allasinterju;Otthon;Microsoft Teams interju;https://teams.microsoft.com/l/meetup-join/...
+2025-06-03;08:00;Reggeli edzes;Fitness terem;Kardio;napi
+2025-06-04;18:00;Projekt ledas;Egyetem;Hatarido betartasa;magas
+2025-06-05;12:00;Ebed apaval;Etterem;Csaladi ido;alacsony
+2025-06-06;16:00;Scrum meeting;Iroda;Csapat szinkron;heti
+2025-06-07;09:00;Online eloadas;Otthon;C++ template meta programming;https://example.com/webinar
+2025-06-08;20:00;Havi jelentes bekuldes;Otthon;Adminisztracio;havi
+2025-06-09;11:00;Munkahelyi meeting;Iroda;Projekt attekintes;heti
+2025-06-10;15:00;Fogorvos;Rendelointezet;Felulvizsgalat;havi
+2025-06-11;17:30;Joga ora;Fitness studio;Relaxacio;napi
+2025-06-12;08:30;Bevasarlas;Bolt;Heti elelmiszer;heti
+2025-06-13;19:00;Filmest;Otthon;Netflix filmek;alacsony
+2025-06-14;10:00;Banki ugyintezes;Bank;Szamlaegyenleg egyeztetes;havi
+2025-06-15;13:00;Csaladi ebed;Szulo haz;Hetvegi latogatas;alacsony
+2025-06-16;09:00;Onkentes munka;Allatmenhely;Etetes es setaltatas;heti
+2025-06-17;18:00;Konyvklub;Konyvtar;Beszelgetes uj regenyrol;havi
+2025-06-18;16:00;Uszas;Uszoda;Edzes;napi
+2025-06-19;07:00;Futas;Park;Reggeli testmozgas;napi
+2025-06-20;21:00;Barati osszejovetel;Bar kavezo;Kellemes este;alacsony
+2025-06-21;14:00;Muzeum latogatas;Varoskozpont;Kiallitas;heti
+2025-06-22;10:00;Online tanfolyam;Otthon;Python alapok;https://example.com/course
+2025-06-23;15:00;Kert gondozas;Haz udvara;Novenyek ontozese;napi
+2025-06-24;11:00;Webfejlesztes workshop;Tech iroda;JavaScript tema;magas
+2025-06-25;17:00;Csaladi seta;Park;Beszelgetes;alacsony
+2025-06-26;12:30;Ugyvedi talalkozo;Iroda;Szerzodes alairas;magas
+2025-06-27;13:00;Masszazs;Wellness kozpont;Relaxacio;havi
+2025-06-28;16:00;Allat orvos;Allatorvosi rendelointezet;Macska oltas;heti
+2025-06-29;20:00;Zenehallgatas;Otthon;Kedvenc album;alacsony
+2025-06-30;14:00;Hazimunka;Otthon;Takaritas;napi
+2025-07-01;10:00;Tarsasjatekozunk;Baratoknal;Szabadido;heti
+2025-07-02;08:00;Vizsga felkeszules;Konyvtar;Tanulas;magas
+2025-07-03;15:30;Programozas gyakorlas;Otthon;Leetcode problemak;napi
+2025-07-04;17:00;Uj hobbi kiprobalasa;Otthon;Rajzolas;alacsony
+2025-07-05;19:30;Koncert;Arena;Kedvenc eloado;magas
+2025-07-06;13:00;Barbecue;Kert;Grill es tarsasag;heti
+2025-07-07;18:00;Online jatek baratokkal;Otthon;Szorakozas;alacsony
+2025-07-08;09:30;Tanacsadas;Iroda;Karrier iranyitas;magas
+2025-07-09;16:00;Bevasarlas;Plaza;Ruhak es cipok;havi
+2025-07-10;11:00;Fotozas;Varosban;Hobbi projekt;alacsony
+2025-07-11;20:00;Virtualis mozi;Otthon;Uj film;heti
+2025-07-12;14:00;Java tanulas;Otthon;Online tananyag;napi
+2025-07-13;08:00;Meditacio;Csendes szoba;Lelki feltoltodes;napi
+2025-07-14;10:00;Laptop karbantartas;Otthon;Frissites;havi
+2025-07-15;13:00;Udvozlo meeting;Uj munkahely;Bemutatkozas;magas
+2025-07-16;15:00;Dokumentum feltoltes;Online rendszer;HR;heti
+2025-07-17;19:00;Focimeccs;Sportcsarnok;Eloben;alacsony
+2025-07-18;07:30;Kavezas;Kavezo;Reggeli inditas;napi

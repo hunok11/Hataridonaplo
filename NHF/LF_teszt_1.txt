@@ -1,0 +1,62 @@
+1
+2
+2025-06-08
+15:00
+Edzes
+Konditerem
+Kar Edzes
+napi
+2
+2025-09-06
+16:00
+Beiratkozas
+Fasori Gimmnazium
+magas
+2
+202p-09-02
+2025-09-02
+18:t0
+2025-09-02
+18:00
+Levekozes
+Liget
+Seta
+2
+2025-09-20
+19:00
+
+2025-09-20
+19:00
+Vacsora
+Otthon
+
+
+3
+Program
+4
+2025-06-02
+Allasinterju
+2025-06-03
+15:00
+Allasinterju
+Otthon
+Microsoft Teams interju
+https://teams.microsoft.com/l/meetup-join/...
+5
+2025-06-05
+Ebed apaval
+5
+2025-06-13
+Filmest
+5
+2030-08-06
+Parbaj ora
+6
+feldolgozott.csv
+7
+
+
+
+
+
+
